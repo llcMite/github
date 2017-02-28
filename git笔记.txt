@@ -1,0 +1,25 @@
+github 账号密码
+username:1316495850
+email:1316495850@qq.com
+possword:jl3612501
+
+登入github
+  创建一个开源项目
+  然后打开安装好的git
+  首先进入一个指定的文件夹
+  例如：
+  1）E:\>cd miaov/testGit  
+  回车 进入E盘的testGit文件夹
+  2）E:\miaov\testGit>git clone url
+  这里的url就是github里创建的项目路径复制过来
+  然后回车，就把项目克隆到本地了
+  3）设置贡献者
+  E:\miaov\testGit>cd drag
+  进入该项目
+  E:\miaov\testGit\drag[master]>git config --globle user.name "自己的用户名"
+  E:\miaov\testGit\drag[master]>git config --globle user.name "自己的邮箱"
+  如果要查看自己的用户名或者是邮箱
+  E:\miaov\testGit\drag[master]>git config --globle user.name
+  回车就可以查看了
+  E:\miaov\testGit\drag[master]>git config --list
+  回车就可以查看所有的信息
