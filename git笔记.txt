@@ -3,6 +3,8 @@ username:1316495850
 email:1316495850@qq.com
 possword:jl3612501
 
+username:SMmite
+possword:jl3612501
 登入github
   创建一个开源项目
   然后打开安装好的git
